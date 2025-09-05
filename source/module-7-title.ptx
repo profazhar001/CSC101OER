@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-7-title" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Introduction to Programming (Python)</title>
+
+  <introduction>
+    <p> Text before the first section. </p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="module-7/1-VariablesExpressionsAndStatements.ptx" />
+  <xi:include href="module-7/2-Variables.ptx" />
+  <xi:include href="module-7/3-Reassignment.ptx" />
+  <xi:include href="module-7/4-UpdatingVariables.ptx" />
+  <xi:include href="module-7/5-VariableNamesAndKeywords.ptx" />
+  <xi:include href="module-7/6-ValuesAndDataTypes.ptx" />
+  <xi:include href="module-7/7-StatementsAndExpressions.ptx" />
+  <xi:include href="module-7/8-OperatorsAndOperands.ptx" />
+  <xi:include href="module-7/9-OrderOfOperations.ptx" />
+  <xi:include href="module-7/10-Modules.ptx" />
+  <xi:include href="module-7/11-MoreAboutUsingModules.ptx" />
+  <xi:include href="module-7/12-TheMathModule.ptx" />
+  <xi:include href="module-7/13-TheRandomModule.ptx" />
+  <xi:include href="module-7/14-CreatingModules.ptx" />
+  <xi:include href="module-7/15-Exercises.ptx" />
+
+</chapter>
