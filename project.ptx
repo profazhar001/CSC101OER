@@ -9,7 +9,7 @@
       name="runestone"
       format="html"
       source="main.ptx"
-      publication="publication/runstone.ptx"
+      publication="runstone.ptx"
       output-dir="output/csc101bmcc"
     />
     <target name="web" format="html" />
