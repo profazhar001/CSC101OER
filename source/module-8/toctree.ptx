@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-8-title" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Using Selection Control Structure (Python)</title>
+
+  <introduction>
+    <p> These sections were compiled from the py4e-int book. </p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="1-BooleanExpressions.ptx" />
+  <xi:include href="2-LogicalOperators.ptx" />
+  <xi:include href="3-ConditionalExecution.ptx" />
+  <xi:include href="4-AlternateExecution.ptx" />
+  <xi:include href="5-ChainedConditionals.ptx" />
+  <xi:include href="6-NestedConditionals.ptx" />
+  <xi:include href="7-GroupWork.ptx" />
+  <xi:include href="8-Exercises.ptx" />
+  <xi:include href="9-Glossary.ptx" />
+
+</chapter>

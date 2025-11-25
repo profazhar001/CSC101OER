@@ -13,6 +13,7 @@
 
     <!-- Include chapters -->
     <xi:include href="./module-7/toctree.ptx" />
+    <xi:include href="./module-8/toctree.ptx" />
     <xi:include href="./appendices-title.ptx" />
 
 
