@@ -41,7 +41,7 @@
   <figure xml:id="fig_chained_elif" align="">
     <title>Flowchart of <c>if</c>-<c>elif</c> Chain</title>
     <caption>Flowchart of <c>if</c>-<c>elif</c> Chain</caption>
-    <image source="images/elif.svg" width="50%" alt="If-ElseIf Logic"/>
+    <image source="Figures/Module-8/elif.svg" width="50%" alt="If-ElseIf Logic"/>
   </figure>
   
   <p>
@@ -286,57 +286,4 @@
       </choice>
     </choices>
   </exercise>
-  
-  <!--
-  <p>
-    From the last two exercises, you can see that an <c>if</c>/<c>elif</c> chain is very different from a series of separate <c>if</c> statements.
-    To bring this home, look at the next two programs and their flowcharts. Copy and paste them into the following ActiveCode area and run them to see the difference.
-  </p>
-  
-  <sidebyside width="50%">
-    <program language="python">
-      <input>percent = 80
-if percent >= 75:
-    print("great")
-elif percent >= 50:
-    print("good")
-elif percent &lt; 50:
-    print("fair")
-        </input>
-      </program>
-      
-       <figure xml:id="fig_example_elif" align="">
-    <title>Use of <c>if</c>-<c>elif</c> Chain</title>
-    <caption>Use of <c>if</c>-<c>elif</c> Chain</caption>
-    <image source="conditional/flowchart1.svg" width="15%" alt="If-ElseIf Logic"/>
-  </figure> 
-</sidebyside>
-
-<sidebyside width="50%">
-    <program language="python">
-      <input>percent = 80
-if percent >= 75:
-    print("great")
-if percent >= 50:
-    print("good")
-if percent &lt; 50:
-    print("fair")
-        </input>
-      </program>
-      
-       <figure xml:id="fig_example_separate_if" align="">
-    <title>Example of separate <c>if</c> Statements</title>
-    <caption>Example of separate <c>if</c> Statements</caption>
-    <image source="conditional/flowchart2.svg" width="15%" alt="Separate if Logic"/>
-  </figure> 
-</sidebyside>
-
-<p>Paste the preceding two programs, one at a time, into this ActiveCode area and run them. See if you can figure out what they will do <em>before</em> you run the code.</p>
-  <program interactive="activecode" language="python">
-    <input>
-# paste code here..
-</input>
-  </program>
-  -->
-
 </section>

@@ -50,7 +50,7 @@
   <figure xml:id="figure_simple_if" align="">
     <title>Flowchart of an <c>if</c> Statement</title>
     <caption>Flowchart of an <c>if</c> Statement</caption>
-    <image source="images/if.svg" width="50%" alt="If Logic"/>
+    <image source="Figures/Module-8/if.svg" width="50%" alt="If Logic"/>
   </figure>
 
   <p>

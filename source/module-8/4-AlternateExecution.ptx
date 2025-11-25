@@ -63,7 +63,7 @@
   <figure xml:id="figure_alternative_if">
     <title>Flowchart of an <c>if</c>-<c>else</c></title>
     <caption>Flowchart of an <c>if</c>-<c>else</c></caption>
-    <image source="images/if-else.svg" width="50%" alt="If-Then-Else Logic"/>
+    <image source="Figures/Module-8/if-else.svg" width="50%" alt="If-Then-Else Logic"/>
   </figure>
 
   <p>
