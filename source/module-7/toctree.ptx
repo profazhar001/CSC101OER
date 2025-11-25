@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-7-title" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Introduction to Programming (Python)</title>
+
+  <introduction>
+    <p> These sections were compiled from the thinkcspy book. </p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="1-VariablesExpressionsAndStatements.ptx" />
+  <xi:include href="2-Variables.ptx" />
+  <xi:include href="3-Reassignment.ptx" />
+  <xi:include href="4-UpdatingVariables.ptx" />
+  <xi:include href="5-VariableNamesAndKeywords.ptx" />
+  <xi:include href="6-ValuesAndDataTypes.ptx" />
+  <xi:include href="7-StatementsAndExpressions.ptx" />
+  <xi:include href="8-OperatorsAndOperands.ptx" />
+  <xi:include href="9-OrderOfOperations.ptx" />
+  <xi:include href="10-Modules.ptx" />
+  <xi:include href="11-MoreAboutUsingModules.ptx" />
+  <xi:include href="12-TheMathModule.ptx" />
+  <xi:include href="13-TheRandomModule.ptx" />
+  <xi:include href="14-CreatingModules.ptx" />
+  <xi:include href="15-Exercises.ptx" />
+  <xi:include href="16-Glossary.ptx" />
+
+</chapter>
