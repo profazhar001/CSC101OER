@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-11-title" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Using Functions and Control Statements (Python)</title>
+
+  <introduction>
+    <p> These sections were compiled from the py4e-int book. </p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="1-FunctionCalls.ptx" />
+  <xi:include href="2-BuiltinFunctions.ptx" />
+  <xi:include href="3-TypeConversionFunctions.ptx" />
+  <xi:include href="4-MathFunctions.ptx" />
+  <xi:include href="5-RandomNumbers.ptx" />
+  <xi:include href="6-AddingNewFunctions.ptx" />
+  <xi:include href="7-DefinitionsAndUses.ptx" />
+  <xi:include href="8-FlowOfExecution.ptx" />
+  <xi:include href="9-ParametersAndArguments.ptx" />
+  <xi:include href="10-FruitfulFunctionsAndVoidFunctions.ptx" />
+  <xi:include href="11-WhyFunctions.ptx" />
+  <xi:include href="12-GroupWork.ptx" />
+  <xi:include href="13-Exercises.ptx" />
+  <xi:include href="14-Glossary.ptx" />
+
+</chapter>

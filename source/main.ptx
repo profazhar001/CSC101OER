@@ -15,8 +15,8 @@
     <xi:include href="./module-7/toctree.ptx" />
     <xi:include href="./module-8/toctree.ptx" />
     <xi:include href="./module-9-10/toctree.ptx" />
+    <xi:include href="./module-11/toctree.ptx" />
     <xi:include href="./appendices-title.ptx" />
-
 
     <!-- Include backmatter -->
     <xi:include href="./backmatter.ptx" />
